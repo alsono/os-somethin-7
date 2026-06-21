@@ -12,15 +12,8 @@ This is a place where I'll put multiple games/tools that i'm learning coding thr
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/862064760647712779/1518269062545801329/image.png?ex=6a394dc0&is=6a37fc40&hm=4877e34a46fc9c8e46080c3e765adad6a52a69a33291f0a1ad96704defb60857&animated=trues)
 
-## Tech Stack  
-
-**Client:** React, Redux, TailwindCSS  
-
-**Server:** Node, Express
-
-
 
 ## Lessons Learned  
 
-What did you learn while building this project? What challenges did you face and how did you overcome t
+learned that javascript is way harder than i expected
 
