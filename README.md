@@ -15,7 +15,7 @@ This is a place where I'll put multiple games/tools that i'm learning coding thr
 - currently only has a few questions i will be working on it
 - i tried my best okay
  
-![App Screenshot](<img width="1365" height="720" alt="image (5)" src="https://github.com/user-attachments/assets/101ae679-0210-4ed5-b513-7b14a34aa76d" />
+![App Screenshot](https://github.com/alsono/os-somethin-7/blob/master/image%20(5).png>
 )
 
 # what to expect in the future
