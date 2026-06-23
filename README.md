@@ -15,8 +15,8 @@ This is a place where I'll put multiple games/tools that i'm learning coding thr
 - currently only has a few questions i will be working on it
 - i tried my best okay
  
-![App Screenshot](https://github.com/alsono/os-somethin-7/blob/master/image%20(5).png>
-)
+![App Screenshot](https://github.com/alsono/os-somethin-7/blob/master/image%20(5).png?raw=true)
+
 
 # what to expect in the future
 - an actual tab system
