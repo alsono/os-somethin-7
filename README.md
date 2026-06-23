@@ -11,7 +11,7 @@ This is a place where I'll put multiple games/tools that i'm learning coding thr
 #### 2. taskbar
 - has a working clock synced with your pc's!
 - currently app on it (it being trivia click on the table icon)
-#### trivia
+#### 3. trivia
 - currently only has a few questions i will be working on it
 - i tried my best okay
  
@@ -22,6 +22,7 @@ This is a place where I'll put multiple games/tools that i'm learning coding thr
 - an actual tab system
 - more games
 - more fun easter eggs! (i'm not very creative so don't get your hopes up :P )
+- some sort of sound synthisizer
 
 ## Lessons Learned  
 
